@@ -123,10 +123,6 @@ A robust ETL (Extract, Transform, Load) pipeline that fetches video metadata fro
 - **`KeyError: 'videoId'`**  
   This error occurs if a result item from the YouTube API response lacks a `videoId`. Modify the script to handle such cases gracefully.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 🙌 Acknowledgements
 
 - [Google YouTube Data API](https://developers.google.com/youtube/registering_an_application)
